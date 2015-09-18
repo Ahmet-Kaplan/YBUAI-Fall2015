@@ -1,11 +1,11 @@
-name: Morea CORE (Change me)
+name: YBU AI - Fall 2015
 markdown: kramdown
 kramdown:
   hard_wrap: false
   input: GFM
   syntax_highlighter: rouge
 mathjax: true
-baseurl: /core
+baseurl: /YBUAI-Fall2015
 exclude: [morea]
 morea_theme: spacelab
 morea_navbar_items:
