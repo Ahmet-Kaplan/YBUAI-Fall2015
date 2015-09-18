@@ -5,4 +5,4 @@ morea_type: footer
 ---
 
 Ahmet Kaplan | Computer Engineering Department | Yildirim Beyazit University
-ahmet_kaplan@hotmail.com
+		ahmet_kaplan@hotmail.com
